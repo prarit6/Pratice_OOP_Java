@@ -1,4 +1,4 @@
-package DemoContact;
+package Contact;
 
 public class Contact {
     private String firstName, lastName;

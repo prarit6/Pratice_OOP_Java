@@ -1,4 +1,4 @@
-package DemoContact;
+package Contact;
 
 public class Main {
     public static void demo1(){
